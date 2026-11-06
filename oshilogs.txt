@@ -12,74 +12,76 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Varina =====
-[1]Varina      |12:51:21 | 05-11-2026| login OK @variinaa | score=0 rank=?
-[1]Varina      |12:51:21 | 05-11-2026| serverTime=2026-11-05T12:51:21.000Z local=2026-11-05T12:51:21.574Z
+[1]Varina      |12:35:47 | 06-11-2026| login OK @variinaa | score=0 rank=?
+[1]Varina      |12:35:47 | 06-11-2026| serverTime=2026-11-06T12:35:47.000Z local=2026-11-06T12:35:47.140Z
 --> [1]Varina menjalankan: Claim Daily
-[1]Varina      |12:51:21 | 05-11-2026| daily ERROR: daily http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
---> [1]Varina menjalankan: Auto All Tasks (6 pending)
-[1]Varina      |12:51:22 | 05-11-2026| [1/6] bf0ad10d (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/variinaa/status/2118324694144521111
-[1]Varina      |12:51:22 | 05-11-2026| delay 10s...
-[1]Varina      |12:51:33 | 05-11-2026| [2/6] edbd5fee (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/variinaa/status/2118324723566181872
-[1]Varina      |12:51:33 | 05-11-2026| delay 10s...
-[1]Varina      |12:51:44 | 05-11-2026| [3/6] 122ee3f4 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/variinaa/status/2118324894361571668
-[1]Varina      |12:51:44 | 05-11-2026| delay 10s...
-[1]Varina      |12:51:55 | 05-11-2026| [4/6] 5ff4a15b (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/variinaa/status/2118324996220936944
-[1]Varina      |12:51:55 | 05-11-2026| delay 10s...
-[1]Varina      |12:52:05 | 05-11-2026| [5/6] 71a6b26f (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/variinaa/status/2118325064663607981
-[1]Varina      |12:52:05 | 05-11-2026| delay 10s...
-[1]Varina      |12:52:16 | 05-11-2026| [6/6] 7f765e65 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/variinaa/status/2118325013390289464
-[1]Varina      |12:52:16 | 05-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Varina      |12:52:16 | 05-11-2026| [1/1] bf0ad10d (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/variinaa/status/2118325232918356865
+[1]Varina      |12:35:47 | 06-11-2026| daily ERROR: daily http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+--> [1]Varina menjalankan: Auto All Tasks (7 pending)
+[1]Varina      |12:35:48 | 06-11-2026| [1/7] 191dc55f (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/variinaa/status/2118683151647983819
+[1]Varina      |12:35:48 | 06-11-2026| delay 10s...
+[1]Varina      |12:35:58 | 06-11-2026| [2/7] 3511b911 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/variinaa/status/2118683197329102381
+[1]Varina      |12:35:58 | 06-11-2026| delay 10s...
+[1]Varina      |12:36:08 | 06-11-2026| [3/7] 3c85a813 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/variinaa/status/2118683299137430753
+[1]Varina      |12:36:08 | 06-11-2026| delay 10s...
+[1]Varina      |12:36:19 | 06-11-2026| [4/7] 6795f466 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/variinaa/status/2118683367412255730
+[1]Varina      |12:36:19 | 06-11-2026| delay 10s...
+[1]Varina      |12:36:29 | 06-11-2026| [5/7] bf0ad10d (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/variinaa/status/2118683339206897000
+[1]Varina      |12:36:29 | 06-11-2026| delay 10s...
+[1]Varina      |12:36:41 | 06-11-2026| [6/7] 7f765e65 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/variinaa/status/2118683503970597009
+[1]Varina      |12:36:41 | 06-11-2026| delay 10s...
+[1]Varina      |12:36:52 | 06-11-2026| [7/7] 1366d543 (reply) verify GAGAL http=503 resp={"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"} | proof=https://x.com/variinaa/status/2118683414836680664
+[1]Varina      |12:36:52 | 06-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Varina      |12:36:52 | 06-11-2026| [1/1] 191dc55f (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/variinaa/status/2118683482074611587
 --> [1]Varina menjalankan: Watch Anime
-[1]Varina      |12:52:17 | 05-11-2026| watch ERROR: watch-progress http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Varina      |12:36:53 | 06-11-2026| watch ERROR: watch-progress http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
 --> [1]Varina menjalankan: Read Article
-[1]Varina      |12:52:18 | 05-11-2026| news: null/34 artikel selesai dibaca
-[1]Varina      |12:52:19 | 05-11-2026| mint eligibility: {"userId":null,"wallet":{"state":"missing","ready":false},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"automaticReady":true
-[1]Varina      |12:52:25 | 05-11-2026| news oshi-nft-24h-volume-no2-2026-11: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Varina      |12:52:32 | 05-11-2026| news oshi-labs-new-features-2026-11: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Varina      |12:52:40 | 05-11-2026| news smart-pocket-monthly-2026-10: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Varina      |12:52:48 | 05-11-2026| news oshi-labs-monthly-2026-10: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Varina      |12:52:55 | 05-11-2026| news road-to-mint-2026-10: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Varina      |12:53:02 | 05-11-2026| news community-first-update-2026-10: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Varina      |12:53:10 | 05-11-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Varina      |12:53:18 | 05-11-2026| news smart-pocket-800000-battles: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Varina      |12:53:25 | 05-11-2026| news 100-friends-connected-by-what-we-love: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Varina      |12:53:32 | 05-11-2026| news 5c5bca9d-4991-4e23-918b-9b13cd2245c8: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Varina      |12:53:40 | 05-11-2026| news oshi-clash-100000-battles: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Varina      |12:53:47 | 05-11-2026| news whitepaper-v2-2: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Varina      |12:53:54 | 05-11-2026| news smart-pocket-referral-rewards: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Varina      |12:54:02 | 05-11-2026| news spaceship-and-studio-friends: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Varina      |12:54:09 | 05-11-2026| news swap-arena-stars-guide: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Varina      |12:54:17 | 05-11-2026| news kagura-airdrop-guide: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Varina      |12:54:24 | 05-11-2026| news oshi-clash-complete-guide: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Varina      |12:54:31 | 05-11-2026| news oshi-clash-launch: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Varina      |12:54:39 | 05-11-2026| news smart-pocket-monthly-2026-09: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Varina      |12:54:46 | 05-11-2026| news oshi-labs-monthly-2026-09: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Varina      |12:54:53 | 05-11-2026| news oshi-news-launch: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Varina      |12:55:01 | 05-11-2026| news yuki-character-design: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Varina      |12:55:09 | 05-11-2026| news smart-pocket-mobile-apps: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Varina      |12:55:17 | 05-11-2026| news smart-pocket-read-a-card: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Varina      |12:55:24 | 05-11-2026| news start-your-fan-creation: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Varina      |12:55:32 | 05-11-2026| news complete-your-first-task: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Varina      |12:55:39 | 05-11-2026| news understand-the-rankings: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Varina      |12:55:46 | 05-11-2026| news unlock-and-save-icons: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Varina      |12:55:53 | 05-11-2026| news start-here: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Varina      |12:56:01 | 05-11-2026| news what-is-free-mint: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Varina      |12:56:08 | 05-11-2026| news what-is-nft: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Varina      |12:56:15 | 05-11-2026| news prepare-your-wallet: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Varina      |12:56:22 | 05-11-2026| news find-your-anime: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Varina      |12:56:30 | 05-11-2026| news smart-pocket-first-steps: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Varina      |12:36:54 | 06-11-2026| news: null/34 artikel selesai dibaca
+[1]Varina      |12:36:55 | 06-11-2026| mint eligibility: {"userId":null,"wallet":{"state":"missing","ready":false},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"automaticReady":true
+[1]Varina      |12:37:01 | 06-11-2026| news oshi-nft-24h-volume-no2-2026-11: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Varina      |12:37:03 | 06-11-2026| news oshi-labs-new-features-2026-11: view GAGAL http=503
+[1]Varina      |12:37:04 | 06-11-2026| news smart-pocket-monthly-2026-10: view GAGAL http=503
+[1]Varina      |12:37:09 | 06-11-2026| news oshi-labs-monthly-2026-10: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Varina      |12:37:16 | 06-11-2026| news road-to-mint-2026-10: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Varina      |12:37:19 | 06-11-2026| news community-first-update-2026-10: view GAGAL http=503
+[1]Varina      |12:37:25 | 06-11-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Varina      |12:37:33 | 06-11-2026| news smart-pocket-800000-battles: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Varina      |12:37:36 | 06-11-2026| news 100-friends-connected-by-what-we-love: view GAGAL http=503
+[1]Varina      |12:37:41 | 06-11-2026| news 5c5bca9d-4991-4e23-918b-9b13cd2245c8: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Varina      |12:37:49 | 06-11-2026| news oshi-clash-100000-battles: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Varina      |12:37:56 | 06-11-2026| news whitepaper-v2-2: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Varina      |12:38:04 | 06-11-2026| news smart-pocket-referral-rewards: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Varina      |12:38:11 | 06-11-2026| news spaceship-and-studio-friends: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Varina      |12:38:18 | 06-11-2026| news swap-arena-stars-guide: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Varina      |12:38:21 | 06-11-2026| news kagura-airdrop-guide: view GAGAL http=503
+[1]Varina      |12:38:27 | 06-11-2026| news oshi-clash-complete-guide: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Varina      |12:38:34 | 06-11-2026| news oshi-clash-launch: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Varina      |12:38:41 | 06-11-2026| news smart-pocket-monthly-2026-09: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Varina      |12:38:45 | 06-11-2026| news oshi-labs-monthly-2026-09: view GAGAL http=503
+[1]Varina      |12:38:46 | 06-11-2026| news oshi-news-launch: view GAGAL http=503
+[1]Varina      |12:38:51 | 06-11-2026| news yuki-character-design: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Varina      |12:38:59 | 06-11-2026| news smart-pocket-mobile-apps: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Varina      |12:39:07 | 06-11-2026| news smart-pocket-read-a-card: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Varina      |12:39:14 | 06-11-2026| news start-your-fan-creation: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Varina      |12:39:22 | 06-11-2026| news complete-your-first-task: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Varina      |12:39:29 | 06-11-2026| news understand-the-rankings: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Varina      |12:39:36 | 06-11-2026| news unlock-and-save-icons: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Varina      |12:39:43 | 06-11-2026| news start-here: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Varina      |12:39:51 | 06-11-2026| news what-is-free-mint: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Varina      |12:39:58 | 06-11-2026| news what-is-nft: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Varina      |12:40:01 | 06-11-2026| news prepare-your-wallet: view GAGAL http=503
+[1]Varina      |12:40:06 | 06-11-2026| news find-your-anime: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Varina      |12:40:13 | 06-11-2026| news smart-pocket-first-steps: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
 --> [1]Varina menjalankan: Quiz Anime
 --> [1]Varina menjalankan: Music Missions (realtime, bisa lama!)
-[1]Varina      |12:56:34 | 05-11-2026| music ERROR: missions http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
-[1]Varina      |12:56:34 | 05-11-2026| missions ERROR: missions http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Varina      |12:40:17 | 06-11-2026| music ERROR: missions http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Varina      |12:40:17 | 06-11-2026| missions ERROR: missions http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
 --> [1]Varina menjalankan: Claim Missions
-[1]Varina      |12:56:35 | 05-11-2026| missions ERROR: missions http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Varina      |12:40:17 | 06-11-2026| missions ERROR: missions http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
 --> [1]Varina menjalankan: Check Eligibility
 
 --- eligibility [1]Varina ---
   @? | score=0 rank=?
-  tasks    [--------------------] 0/6
+  tasks    [--------------------] 0/7
   missions: ERROR missions http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
   quiz     [?]
   watch: ERROR watch-progress http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
@@ -88,39 +90,39 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=false
 
 --> [1]Varina menjalankan: Read Manga
-[1]Varina      |12:56:38 | 05-11-2026| manga: 13/13 chapter belum completed
-[1]Varina      |12:56:38 | 05-11-2026| manga [1/13] membaca ch.1 (19 hal)...
-[1]Varina      |12:56:39 | 05-11-2026| manga ch1 (1): start GAGAL http=401
-[1]Varina      |12:56:42 | 05-11-2026| manga [2/13] membaca ch.2 (18 hal)...
-[1]Varina      |12:56:42 | 05-11-2026| manga ch2 (450001): start GAGAL http=401
-[1]Varina      |12:56:45 | 05-11-2026| manga [3/13] membaca ch.3 (17 hal)...
-[1]Varina      |12:56:45 | 05-11-2026| manga ch3 (2160001): start GAGAL http=401
-[1]Varina      |12:56:48 | 05-11-2026| manga [4/13] membaca ch.4 (17 hal)...
-[1]Varina      |12:56:49 | 05-11-2026| manga ch4 (2400001): start GAGAL http=401
-[1]Varina      |12:56:52 | 05-11-2026| manga [5/13] membaca ch.5 (18 hal)...
-[1]Varina      |12:56:53 | 05-11-2026| manga ch5 (2490001): start GAGAL http=401
-[1]Varina      |12:56:56 | 05-11-2026| manga [6/13] membaca ch.6 (17 hal)...
-[1]Varina      |12:56:57 | 05-11-2026| manga ch6 (2610001): start GAGAL http=401
-[1]Varina      |12:57:00 | 05-11-2026| manga [7/13] membaca ch.1 (21 hal)...
-[1]Varina      |12:57:00 | 05-11-2026| manga ch1 (180003): start GAGAL http=401
-[1]Varina      |12:57:03 | 05-11-2026| manga [8/13] membaca ch.2 (18 hal)...
-[1]Varina      |12:57:03 | 05-11-2026| manga ch2 (990005): start GAGAL http=401
-[1]Varina      |12:57:06 | 05-11-2026| manga [9/13] membaca ch.3 (20 hal)...
-[1]Varina      |12:57:07 | 05-11-2026| manga ch3 (1980001): start GAGAL http=401
-[1]Varina      |12:57:10 | 05-11-2026| manga [10/13] membaca ch.1 (9 hal)...
-[1]Varina      |12:57:12 | 05-11-2026| manga ch1 (2100001): start GAGAL http=401
-[1]Varina      |12:57:15 | 05-11-2026| manga [11/13] membaca ch.1 (10 hal)...
-[1]Varina      |12:57:16 | 05-11-2026| manga ch1 (2070001): start GAGAL http=401
-[1]Varina      |12:57:19 | 05-11-2026| manga [12/13] membaca ch.2 (11 hal)...
-[1]Varina      |12:57:20 | 05-11-2026| manga ch2 (2520001): start GAGAL http=503
-[1]Varina      |12:57:23 | 05-11-2026| manga [13/13] membaca ch.3 (11 hal)...
-[1]Varina      |12:57:23 | 05-11-2026| manga ch3 (2550001): start GAGAL http=401
+[1]Varina      |12:40:20 | 06-11-2026| manga: 13/13 chapter belum completed
+[1]Varina      |12:40:20 | 06-11-2026| manga [1/13] membaca ch.1 (19 hal)...
+[1]Varina      |12:40:21 | 06-11-2026| manga ch1 (1): start GAGAL http=401
+[1]Varina      |12:40:24 | 06-11-2026| manga [2/13] membaca ch.2 (18 hal)...
+[1]Varina      |12:40:24 | 06-11-2026| manga ch2 (450001): start GAGAL http=401
+[1]Varina      |12:40:27 | 06-11-2026| manga [3/13] membaca ch.3 (17 hal)...
+[1]Varina      |12:40:27 | 06-11-2026| manga ch3 (2160001): start GAGAL http=401
+[1]Varina      |12:40:30 | 06-11-2026| manga [4/13] membaca ch.4 (17 hal)...
+[1]Varina      |12:40:31 | 06-11-2026| manga ch4 (2400001): start GAGAL http=401
+[1]Varina      |12:40:34 | 06-11-2026| manga [5/13] membaca ch.5 (18 hal)...
+[1]Varina      |12:40:34 | 06-11-2026| manga ch5 (2490001): start GAGAL http=401
+[1]Varina      |12:40:37 | 06-11-2026| manga [6/13] membaca ch.6 (17 hal)...
+[1]Varina      |12:40:37 | 06-11-2026| manga ch6 (2610001): start GAGAL http=401
+[1]Varina      |12:40:40 | 06-11-2026| manga [7/13] membaca ch.1 (21 hal)...
+[1]Varina      |12:40:40 | 06-11-2026| manga ch1 (180003): start GAGAL http=401
+[1]Varina      |12:40:43 | 06-11-2026| manga [8/13] membaca ch.2 (18 hal)...
+[1]Varina      |12:40:44 | 06-11-2026| manga ch2 (990005): start GAGAL http=401
+[1]Varina      |12:40:47 | 06-11-2026| manga [9/13] membaca ch.3 (20 hal)...
+[1]Varina      |12:40:47 | 06-11-2026| manga ch3 (1980001): start GAGAL http=401
+[1]Varina      |12:40:50 | 06-11-2026| manga [10/13] membaca ch.1 (9 hal)...
+[1]Varina      |12:40:50 | 06-11-2026| manga ch1 (2100001): start GAGAL http=401
+[1]Varina      |12:40:53 | 06-11-2026| manga [11/13] membaca ch.1 (10 hal)...
+[1]Varina      |12:40:54 | 06-11-2026| manga ch1 (2070001): start GAGAL http=401
+[1]Varina      |12:40:57 | 06-11-2026| manga [12/13] membaca ch.2 (11 hal)...
+[1]Varina      |12:40:57 | 06-11-2026| manga ch2 (2520001): start GAGAL http=401
+[1]Varina      |12:41:00 | 06-11-2026| manga [13/13] membaca ch.3 (11 hal)...
+[1]Varina      |12:41:00 | 06-11-2026| manga ch3 (2550001): start GAGAL http=401
 --> [1]Varina menjalankan: Get Gift
-[1]Varina      |12:57:27 | 05-11-2026| gift ERROR: gifts http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Varina      |12:41:03 | 06-11-2026| gift ERROR: gifts http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
 --> [1]Varina menjalankan: Setup Profile
-[1]Varina      |12:57:27 | 05-11-2026| profile ERROR: member-settings http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Varina      |12:41:04 | 06-11-2026| profile ERROR: member-settings http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
 --> [1]Varina menjalankan: Bind Wallet
-[1]Varina      |12:57:27 | 05-11-2026| wallet ERROR: member-settings http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Varina      |12:41:04 | 06-11-2026| wallet ERROR: member-settings http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
 
 == RINGKASAN ==
-- Varina: daily=- | tasks OK 0/7 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/0 diterima | profile - | wallet - | mint req=false open=false
+- Varina: daily=- | tasks OK 0/8 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/0 diterima | profile - | wallet - | mint req=false open=false
